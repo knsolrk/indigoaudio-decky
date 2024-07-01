@@ -1,10 +1,10 @@
 {
   "name": "Pack Name",
-  "description": "Use this field to describe the pack.",
-  "author": "GitHubUsername",
+  "description": "Indigo Park train theme as background music.",
+  "author": "Nori",
   "version": "v1.0",
   "manifest_version": 2,
-  "music": false,
+  "music": true,
   "ignore": [],
   "mappings": {}
 }
